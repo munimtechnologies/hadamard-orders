@@ -12,7 +12,7 @@ Commands:
     python hadamard.py build N      print a Hadamard matrix of order N built from those
                                     elementary constructions, if they reach N
 
-By MV2 of Munim, Inc. Made with AI agents working in MV2's name. MIT licence.
+By MV2 of Munim, Inc. Made with AI agents working in MV2's name. Apache-2.0 licence.
 """
 
 import argparse

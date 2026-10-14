@@ -9,7 +9,7 @@ MV2's name. Every statement below is either proved here or cited to a source; se
 what is proved from what is open, and section 8 lists what is new here. Corrections are welcome by
 issue or pull request.
 
-Version 1.0, 2026-10-14. Text CC BY 4.0, code MIT.
+Version 1.0, 2026-10-14. Text CC BY 4.0, code Apache-2.0.
 
 Related problem records: Justin Sun Prize JSP-000013 (MathDB #315867), Epoch AI's FrontierMath
 open-problem page for order 668, OEIS A007299.
@@ -262,5 +262,5 @@ Python 3.6+, no dependencies.
 
 ## Licence
 
-Text: CC BY 4.0. Code: MIT (see LICENSE). Cite as: MV2 (Munim, Inc.), "The Hadamard conjecture in
+Text: CC BY 4.0. Code: Apache-2.0 (see LICENSE). Cite as: MV2 (Munim, Inc.), "The Hadamard conjecture in
 October 2026", 2026.
